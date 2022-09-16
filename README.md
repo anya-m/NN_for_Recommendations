@@ -1,2 +1,3 @@
 # NN_for_Recommendations
-Neural Networks for Recommendations
+Fully Connected Neural Network for Next Item Recommendation on Movielens-1M Dataset
+
